@@ -1,0 +1,19 @@
+body {
+  background-color: #AEC09A;
+  color: #1A2902;
+}
+
+.greetings {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+img {
+  height: 200px;
+}
+
+section {
+  border: 2px solid #57672f;
+  margin: 10px;
+  padding: 10px;
+}
